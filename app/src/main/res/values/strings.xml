@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MealsApi</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Description</string>
+    <string name="img_txt_description">meal</string>
+    <string name="txt_category">Category</string>
+    <string name="txt_error">Something went wrong...</string>
+    <string name="txt_btn_retry">RETRY</string>
+    <string name="txt_loading">Loading...</string>
+    <string name="txt_adapter_error">Incorrect Adapter Type :(</string>
+</resources>
